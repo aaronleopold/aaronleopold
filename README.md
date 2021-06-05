@@ -1,6 +1,6 @@
 <h2> Hi, I'm Aaron Leopold! <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="30"></h2>
 <img align='right' src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="230">
-<p><em>Software Developer at <a href="https://www.floridamuseum.ufl.edu/">The Florida Museum of Natural History</a>
+<p><em>Software Developer Intern at <a href="https://www.lumen.com">Lumen Technologies</a>
 </em></p>
 
 [![My Website](https://img.shields.io/badge/-💻_My_Website-gree?)](https://www.aaronbleopold.com)
@@ -14,7 +14,7 @@ let aaron: Person = {
   pronouns: ["he", "him"],
   code: [TypeScript, JavaScript, Python, Java, Rust],
   tools: [React, Svelte, Node, TailwindCSS, Spring],
-  learning: "I am currently focused on learning Rust, Svelte and Spring",
+  learning: "I am currently focused on learning Vue, Docker and Spring",
 };
 ```
 
